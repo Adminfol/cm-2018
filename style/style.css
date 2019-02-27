@@ -1,0 +1,88 @@
+@media screen and (max-width: 766px){ 
+#between{display:flex;
+flex-direction: column;
+justify-content:space-around;
+align-items:center;}
+.oBjeckGrow{flex-direction: column;}
+}
+@media screen and (max-width: 766px){ 
+li:hover{border:1px solid white;}
+}
+li{text-shadow:2px 1px 3px black;color:white;}
+li:hover{text-shadow:0px 0px 0.0px white;color:white;}
+.navbar-brand{text-shadow:3px 2px 3px black;}
+body{margin:0px;
+font-family:Times new roman;}
+#between {display:flex;
+justify-content:space-between;
+align-items:center; 
+color:white;}
+ul,#between{width:100%;}
+nav{display:flex;}
+.navbar-brand{flex-grow: 0.4;}
+.img{background-size:100% 100%;
+background-repeat:no-repeat;
+height:500px;}
+.img2{background-size:100% 100%;
+background-repeat:no-repeat;
+height:500px;}
+.img3{background-size:100% 100%;
+background-repeat:no-repeat;
+height:500px;}
+.str-only{font-size:30px;}
+.imgBox1{background-image:url("https://achievement-images.teamtreehouse.com/badge_bootstrap-4-basics_stage01.png");}
+.imgBox2{background-image:url("https://graygrids.com/wp-content/uploads/2015/09/bs4-features-945x535.jpg");}
+.imgBox3{background-image:url("https://entwickler.de/wp-content/uploads/2015/06/bootstrap-logo-600x400.png");}
+.imgBox4{background-image:url("http://antosoft.net/parseimg/2690106/e18f50b7b851b72796868b912a9648a5.jpg");}
+.imgBox5{background-image:url("http://www.sihirlifasulyeler.com/images/topics/bootstrap.jpg");}
+.imgBox6{background-image:url("https://www.build-career.org/wp-content/uploads/2016/12/bootstrap4.jpg");}
+.imageSize{background-repeat:no-repeat;
+background-size:99% 100%;
+height:200px;
+margin-left:1px;
+margin-top:1px;}
+.imgBlock{margin-top:10px;
+border:0.1px solid black;
+width:202px;}
+center{border:0.1px solid black;}
+.just_alg_itms{height:100px;
+display:flex;
+align-items:center;
+justify-content:center;}
+.container{display:flex;
+justify-content:space-between;
+flex-wrap: wrap;}
+.slider2{margin-top:10px;}
+.grow1{height:450px;
+border:1px solid black;
+flex-grow:1;}
+.grow2{border:1px solid black;
+height:450px;
+width:500px;
+flex-grow:2;}
+.oBjeckGrow{display:flex;
+justify-content:space-around;
+border:1px solid black;}
+.submit{border:1px solid black;
+padding:3px;
+width:250px;
+margin-left:auto;
+margin-right:auto;
+background-color:white;}
+/*register.php*/
+.register {
+	border:1px solid black;
+}
+.input{
+	border:1px solid black; 
+	border-radius:3px;
+}
+/*.sub{
+width:100px;
+}*/
+.form{height:700px;
+	display:flex;
+	flex-direction:column;
+	justify-content:space-around;
+	align-items:center;
+}
